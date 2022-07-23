@@ -1,0 +1,1406 @@
+[
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_kh.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/kh.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_lt.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/lt.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_na.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/na.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_om.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/om.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_sr.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/sr.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_sd.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/sd.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_food4.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/food4.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_gq.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/gq.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_cl.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/cl.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_mr.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/mr.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ic_do.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ic_do.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_py.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/py.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_leaf_vector.xml.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/leaf_vector.xml"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_dj.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/dj.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_eh.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/eh.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_bo.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/bo.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_cz.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/cz.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_im.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/im.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_um.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/um.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ac.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ac.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_np.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/np.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ru.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ru.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_aq.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/aq.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_mc.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/mc.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_gb.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/gb.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_hn.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/hn.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_food3.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/food3.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ba.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ba.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_kg.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/kg.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ls.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ls.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_kw.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/kw.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ar.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ar.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_cm.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/cm.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_gr.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/gr.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_bn.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/bn.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_in.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/in.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_no.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/no.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ms.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ms.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable-v24_pizza.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable-v24/pizza.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_pk.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/pk.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ad.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ad.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_favourite_border.xml.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/favourite_border.xml"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_sc.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/sc.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_cn.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/cn.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_st.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/st.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_sb.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/sb.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_food2.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/food2.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_et.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/et.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_uz.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/uz.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_mp.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/mp.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_dish_img.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/dish_img.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_cy.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/cy.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_tc.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/tc.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_rs.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/rs.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_tn.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/tn.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_discount_white_bg_png.jpg.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/discount_white_bg_png.jpg"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_max_safety_delivery_png.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/max_safety_delivery_png.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_vi.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/vi.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_recycle_png.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/recycle_png.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_yt.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/yt.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/xml_data_extraction_rules.xml.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_pubs_and_bars_png.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/pubs_and_bars_png.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ck.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ck.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ee.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ee.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ki.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ki.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ae.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ae.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_bm.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/bm.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_io.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/io.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_gt.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/gt.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_veg_icon.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/veg_icon.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_za.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/za.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ss.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ss.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_lu.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/lu.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_dk.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/dk.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_wf.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/wf.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_outdoor_png.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/outdoor_png.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_se.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/se.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ma.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ma.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_vn.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/vn.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable-v24_starbucks_logo.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable-v24/starbucks_logo.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_il.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/il.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_pm.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/pm.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_as.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/as.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_un.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/un.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_romantic_png.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/romantic_png.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_lr.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/lr.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_re.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/re.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_mu.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/mu.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/xml_backup_rules.xml.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_md.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/md.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_bb.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/bb.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_mg.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/mg.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_cw.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/cw.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_pg.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/pg.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_af.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/af.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_am.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/am.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_dessert_png.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/dessert_png.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_sv.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/sv.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_bd.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/bd.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_fi.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/fi.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_er.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/er.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_zm.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/zm.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_gf.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/gf.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_xx.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/xx.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ca.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ca.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_gn.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/gn.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_va.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/va.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_tl.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/tl.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_by.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/by.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_sn.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/sn.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable-v24_wendys_logo.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable-v24/wendys_logo.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_kz.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/kz.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_bj.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/bj.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_mo.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/mo.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_fab_icon.xml.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/fab_icon.xml"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ag.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ag.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable-v24_pizza_hut_logo.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable-v24/pizza_hut_logo.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_nr.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/nr.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_tf.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/tf.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_pa.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/pa.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_mm.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/mm.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_discount_png.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/discount_png.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_es.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/es.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_tm.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/tm.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable-v24_biryani_veg.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable-v24/biryani_veg.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_fo.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/fo.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_cx.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/cx.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_hk.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/hk.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_km.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/km.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ne.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ne.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_gh.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/gh.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_cafe_png.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/cafe_png.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_nl.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/nl.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_dz.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/dz.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable-v24_burger_king_logo.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable-v24/burger_king_logo.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_gs.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/gs.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_lk.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/lk.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_bi.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/bi.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_tg.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/tg.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_bt.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/bt.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_je.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/je.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_cg.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/cg.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ga.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ga.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_zpl_bottom_nav.xml.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/zpl_bottom_nav.xml"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_cr.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/cr.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_buffet_png.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/buffet_png.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_al.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/al.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_jp.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/jp.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_mic_png.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/mic_png.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_lv.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/lv.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_mh.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/mh.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_rw.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/rw.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_kn.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/kn.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_si.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/si.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_pl.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/pl.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_mt.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/mt.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable-v24_subway_logo.jpg.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable-v24/subway_logo.jpg"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_nf.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/nf.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ky.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ky.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_is.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/is.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_bz.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/bz.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_aw.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/aw.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_gm.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/gm.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ea.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ea.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_vg.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/vg.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_esga.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/esga.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_fj.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/fj.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_star_filled.xml.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/star_filled.xml"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_gg.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/gg.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ye.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ye.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_eg.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/eg.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_so.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/so.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable-v24_line_settings_icon.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable-v24/line_settings_icon.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable-v24_burger.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable-v24/burger.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ta.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ta.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_tr.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/tr.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_mn.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/mn.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_pw.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/pw.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ic_baseline_timer_24.xml.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ic_baseline_timer_24.xml"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_pf.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/pf.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_percentage_vector.xml.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/percentage_vector.xml"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_tw.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/tw.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ax.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ax.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_pr.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/pr.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable-v24_burgitos_logo.jpg.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable-v24/burgitos_logo.jpg"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ic_google.xml.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ic_google.xml"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_qa.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/qa.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_bv.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/bv.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_sk.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/sk.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_zw.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/zw.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ie.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ie.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable-v24_login_page_top_image.webp.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable-v24/login_page_top_image.webp"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable-v24_haldirams_logo.jpg.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable-v24/haldirams_logo.jpg"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_family_dining_png.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/family_dining_png.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_sz.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/sz.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_fm.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/fm.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_bh.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/bh.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_premium_png.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/premium_png.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_it.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/it.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_my.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/my.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable-v24_kfc_logo.jpg.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable-v24/kfc_logo.jpg"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable-v24_chaat.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable-v24/chaat.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_cf.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/cf.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_sj.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/sj.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_kp.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/kp.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_hu.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/hu.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ni.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ni.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_breakfast_png.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/breakfast_png.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable-v24_salad.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable-v24/salad.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_gy.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/gy.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_mz.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/mz.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable-v24_food.jpg.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable-v24/food.jpg"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_id.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/id.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_us.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/us.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_bg.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/bg.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ve.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ve.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ir.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ir.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_nu.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/nu.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ht.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ht.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ml.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ml.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_leaf_png.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/leaf_png.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_gl.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/gl.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_de.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/de.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_gw.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/gw.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_pe.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/pe.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_search_png.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/search_png.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable-v24_crisp_logo.jpg.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable-v24/crisp_logo.jpg"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_fk.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/fk.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_gi.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/gi.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ic.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ic.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_tv.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/tv.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_bs.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/bs.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_mx.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/mx.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_cv.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/cv.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_non_veg_icon.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/non_veg_icon.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_jo.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/jo.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_th.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/th.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ps.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ps.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ch.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ch.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_vc.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/vc.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_be.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/be.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_kr.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/kr.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable-v24_tim_hortons_logo.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable-v24/tim_hortons_logo.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ng.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ng.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_delivery_bottom_nav.xml.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/delivery_bottom_nav.xml"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_la.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/la.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_events_png.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/events_png.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_sy.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/sy.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_sh.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/sh.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_tk.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/tk.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_br.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/br.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_esct.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/esct.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_lb.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/lb.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_pn.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/pn.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_nz.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/nz.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_li.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/li.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ci.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ci.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_at.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/at.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_sg.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/sg.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_pure_veg_png.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/pure_veg_png.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_cp.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/cp.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_dg.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/dg.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_gu.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/gu.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_uy.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/uy.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ws.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ws.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ic_three_dots.xml.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ic_three_dots.xml"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_jm.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/jm.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_lc.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/lc.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_xk.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/xk.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ph.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ph.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_iq.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/iq.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_bq.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/bq.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ec.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ec.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_mv.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/mv.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_food1.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/food1.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_tt.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/tt.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_mf.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/mf.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable-v24_roll.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable-v24/roll.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_dm.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/dm.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ge.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ge.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_tz.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/tz.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_sm.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/sm.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ic_zomato_logo_svg.xml.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ic_zomato_logo_svg.xml"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_au.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/au.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_hr.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/hr.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ao.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ao.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_snacks_png.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/snacks_png.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_me.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/me.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ro.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ro.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_cc.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/cc.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ua.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ua.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_gbeng.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/gbeng.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_nc.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/nc.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_pt.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/pt.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_mw.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/mw.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable-v24_paratha.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable-v24/paratha.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_bw.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/bw.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_tj.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/tj.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_sx.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/sx.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_gp.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/gp.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable-v24_resto_pic.jpg.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable-v24/resto_pic.jpg"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable-v24_dining_bottom_nav.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable-v24/dining_bottom_nav.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_bf.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/bf.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_fr.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/fr.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable-v24_thali.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable-v24/thali.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_cd.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/cd.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_cu.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/cu.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_gd.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/gd.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_vu.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/vu.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_sl.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/sl.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_sa.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/sa.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_gbwls.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/gbwls.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_to.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/to.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_td.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/td.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_mq.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/mq.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable-v24_rolls.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable-v24/rolls.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_local_dining_bottom_nav.xml.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/local_dining_bottom_nav.xml"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable-v24_google_logo.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable-v24/google_logo.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable-v24_scooter.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable-v24/scooter.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_kid_friendly_png.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/kid_friendly_png.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_gbnir.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/gbnir.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_gbsct.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/gbsct.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ly.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ly.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_mk.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/mk.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ai.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ai.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ke.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ke.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_az.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/az.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_bl.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/bl.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_ug.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/ug.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_co.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/co.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_hm.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/hm.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable-v24_mcdonalds_logo.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable-v24/mcdonalds_logo.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_eu.png.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/eu.png"
+    },
+    {
+        "merged": "com.ashish.zomatoclone.app-merged_res-51:/drawable_favorite_filled.xml.flat",
+        "source": "com.ashish.zomatoclone.app-main-53:/drawable/favorite_filled.xml"
+    }
+]
